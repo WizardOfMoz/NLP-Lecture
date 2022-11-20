@@ -1,2 +1,2 @@
 # NLP-Lecture
-Assignments for NLP Course at IIITD
+Assignments in NLP (CSE556) course at IIITD
